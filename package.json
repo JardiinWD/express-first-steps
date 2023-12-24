@@ -1,0 +1,22 @@
+{
+  "name": "express-first-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Node Js",
+    "Express",
+    "Nodemon"
+  ],
+  "author": "Alessandro Pecorilla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
